@@ -1,3 +1,5 @@
 Resolusi Tahun 2025
 - Saya ingin belajar Git dan Git-Hub
 - Belajar MVC
+- Belajar Reach
+- Belajar JAVA
